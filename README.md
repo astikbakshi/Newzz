@@ -1,8 +1,8 @@
 ## Screenshots
 
-<img width="939" alt="image" src="https://user-images.githubusercontent.com/75061992/173020708-5155f346-f627-42ee-b875-c14b86a76d5b.png">
-<img width="959" alt="image" src="https://user-images.githubusercontent.com/75061992/173020980-a40ab71c-9151-4b28-a446-0812b3544c2e.png">
-<img width="944" alt="image" src="https://user-images.githubusercontent.com/75061992/173021282-19ae3fcf-a170-4a31-9950-040f57f69286.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/99581788/235756311-70c96318-7788-4d94-8c45-ea9b62c4324f.png">
+<img width="917" alt="image" src="https://user-images.githubusercontent.com/99581788/235757199-63c3dd05-e97f-4ed5-8ff8-82e29dfedd05.png">
+<img width="922" alt="image" src="https://user-images.githubusercontent.com/99581788/235757052-ae53f66b-bb57-4bbd-bc8c-57b4b41b6b05.png">
 
 
 # Getting Started with Create React App
